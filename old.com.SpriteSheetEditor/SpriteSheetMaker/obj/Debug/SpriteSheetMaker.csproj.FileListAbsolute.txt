@@ -1,0 +1,51 @@
+C:\Users\jerome travail\source\repos\SpriteSheetMaker\SpriteSheetMaker\bin\Debug\SpriteSheetMaker.exe.config
+C:\Users\jerome travail\source\repos\SpriteSheetMaker\SpriteSheetMaker\bin\Debug\SpriteSheetMaker.exe
+C:\Users\jerome travail\source\repos\SpriteSheetMaker\SpriteSheetMaker\bin\Debug\SpriteSheetMaker.pdb
+C:\Users\jerome travail\source\repos\SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.csprojAssemblyReference.cache
+C:\Users\jerome travail\source\repos\SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.Properties.Resources.resources
+C:\Users\jerome travail\source\repos\SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.TestConversion.resources
+C:\Users\jerome travail\source\repos\SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.csproj.GenerateResource.cache
+C:\Users\jerome travail\source\repos\SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.csproj.CoreCompileInputs.cache
+C:\Users\jerome travail\source\repos\SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.exe
+C:\Users\jerome travail\source\repos\SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.pdb
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.csprojAssemblyReference.cache
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.Properties.Resources.resources
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.TestConversion.resources
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.csproj.GenerateResource.cache
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.csproj.CoreCompileInputs.cache
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.exe
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.pdb
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\bin\Debug\SpriteSheetMaker.exe.config
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\bin\Debug\SpriteSheetMaker.exe
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\bin\Debug\SpriteSheetMaker.pdb
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.TestLoadImage.resources
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.TestLoadImageArgb.resources
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.SelectProgram.resources
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.csprojAssemblyReference.cache
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.SelectProgram.resources
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.TestConversionBetween.resources
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.TestLoadImage.resources
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.Properties.Resources.resources
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.TestConversion.resources
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.TestLoadImageArgb.resources
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.csproj.GenerateResource.cache
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.csproj.CoreCompileInputs.cache
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.exe
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.pdb
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\bin\Debug\SpriteSheetMaker.exe.config
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\bin\Debug\SpriteSheetMaker.exe
+D:\work\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\bin\Debug\SpriteSheetMaker.pdb
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\bin\Debug\WPFToolkit.dll
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Core.Implicit.baml
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\Themes\MetroDark\MetroDark.MSControls.Toolkit.Implicit.baml
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\Themes\MetroDark\Styles.Shared.baml
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\Themes\MetroDark\Styles.WPF.baml
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\Themes\MetroDark\Theme.Colors.baml
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker_Content.g.cs
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker_MarkupCompile.cache
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.g.resources
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.TestConversionBetween.resources
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.csproj.CopyComplete
+C:\Users\jerome travail\Documents\visualStudio-workspace\com.SpriteSheetMaker\SpriteSheetMaker\obj\Debug\SpriteSheetMaker.SpriteSheetMakerMDI.resources
